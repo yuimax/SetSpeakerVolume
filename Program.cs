@@ -1,9 +1,4 @@
-﻿//------------------------------------------
-// 下記を NuGet でインストールしてください
-//  NAudio.Wasapi
-//------------------------------------------
-
-using System;
+﻿using System;
 using NAudio.CoreAudioApi;
 
 class SetVol
